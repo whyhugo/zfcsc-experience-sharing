@@ -1,12 +1,11 @@
 # 政附資訊 社課實作示範
 
 > Created by 王修佑 (GitHub [@WHY-Hugo](https://github.com/WHY-Hugo))<br>
-> <html><body><a target="_blank" rel="noopener noreferrer" href="https://hackmd.io/@hwang05/rkMEGXnH9">HackMD</a></body></html>
+> [HackMD](https://hackmd.io/@hwang05/rkMEGXnH9)
 ### 2022/04/29 社課X 
 ## Gantt
 
-👉[開啟雙欄模式檢視原始語法](https://hackmd.io/T-UpzCz-QV-AMSDCmXIVUw?both)
-
+- 原始碼Open Code
 ````
 ```mermaid
 gantt
@@ -43,6 +42,7 @@ gantt
 ```
 ````
 
+- 實際呈現
 ```mermaid
 gantt
 %% 宣告圖表樣式gantt
@@ -81,7 +81,7 @@ gantt
 - [Mermaid.js document](https://mermaid-js.github.io/mermaid/#/gantt?id=syntax)
 
 ## Pie Chart
-👉[開啟雙欄模式檢視原始語法](https://hackmd.io/T-UpzCz-QV-AMSDCmXIVUw?both)
+- 原始碼Open Code
 ````
 ```mermaid
 pie
@@ -95,7 +95,7 @@ title Animals
 "Lion": 8.9
 ```
 ````
-
+- 實際呈現
 ```mermaid
 pie
 
