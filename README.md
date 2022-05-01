@@ -24,9 +24,10 @@ gantt
             Model tuning: implement, after dp, 63d
 
 		section 研究收案
-		    Analysis & Evaluation: copyright, 07-25, 70d
+			Analysis & Evaluation: copyright, 07-25, 70d
             Discussion & conlcusion: dc, 08-08, 72d
-        section 研究發表
+			
+        section 發表工作
             Writing & Modify report: wm, 09-05, 49d
             Presentation: milestone, after wm, 7d
 ```
